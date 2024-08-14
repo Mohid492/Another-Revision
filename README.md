@@ -1,6 +1,4 @@
 # Another-Revision
-TESTAMENT,
-I-NO,
-JAM,
-Eliza
-Taunt Jetupper
+
+Practicing git to become a backend dev
+
