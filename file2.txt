@@ -1,3 +1,2 @@
-Tekken 7 = Brayn
-GGST = Testament
-Valorant = Neon
+GGST = Zato
+Fatal Fury= Terry
